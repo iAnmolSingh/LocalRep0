@@ -1,0 +1,41 @@
+button{
+    border-radius:10px;
+    border-width: 5px;
+}
+#One{
+    color:navy;
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#Two
+{
+background-color:yellow;
+color: green;
+font-style: arial;
+}
+#One:hover{
+    background-color: aqua;
+    color:black;
+    border-color: blue;
+
+}
+#Two:Hover{
+    color:white;
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    border-color: red;
+    border-style: bold;
+
+}
+#Three{
+    color:red;
+    background-color:green;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#Three:hover{
+    background-color: rgb(255, 192, 214);
+    color:white;
+    border-color: grey;
+    font-style: italic;
+
+}
